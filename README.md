@@ -6,6 +6,11 @@ Welcome! Please select your language to continue:
 我已將 `CryptoCore.exe` 上傳至 VirusTotal 進行掃描。由於 PyInstaller 的特性，部分防毒軟體會產生**誤報 (False Positive)**。
 
 **[點擊查看 v1.0 的 VirusTotal 掃描報告 (2/72 偵測率)](https://www.virustotal.com/gui/file/3481d7b276a3fc08e6a00cd595a2d9dd097b46e4db1fc9b3d07ab7cd40eb4e0b/details))**
+
+🛡️ I have uploaded CryptoCore.exe to VirusTotal for scanning. Due to the nature of PyInstaller, some antivirus programs may produce false positives.
+
+[Click here to view the VirusTotal scan report for v1.0 (2/72 detection rate)(https://www.virustotal.com/gui/file/3481d7b276a3fc08e6a00cd595a2d9dd097b46e4db1fc9b3d07ab7cd40eb4e0b/details))**
+]
 ---
 <br>
 

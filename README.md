@@ -2,6 +2,10 @@
 
 Welcome! Please select your language to continue:
 (歡迎！請選擇您的語言以繼續)
+A file vault built on military-grade AES-256-GCM encryption and BIP-39 mnemonics.
+一款基於 BIP-39 助記詞和 AES-256-GCM 軍規級加密的檔案保險庫。 A file vault built on military-grade AES-256-GCM encryption and BIP-39 mnemonics.
+
+
 ### 🛡️ 安全性掃描 (VirusTotal Scan)
 我已將 `CryptoCore.exe` 上傳至 VirusTotal 進行掃描。由於 PyInstaller 的特性，部分防毒軟體會產生**誤報 (False Positive)**。
 

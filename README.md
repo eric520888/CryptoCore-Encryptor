@@ -3,7 +3,8 @@
 Welcome! Please select your language to continue:
 (歡迎！請選擇您的語言以繼續)
 A file vault built on military-grade AES-256-GCM encryption and BIP-39 mnemonics.
-一款基於 BIP-39 助記詞和 AES-256-GCM 軍規級加密的檔案保險庫。 A file vault built on military-grade AES-256-GCM encryption and BIP-39 mnemonics.
+
+(一款基於 BIP-39 助記詞和 AES-256-GCM 軍規級加密的檔案保險庫。)
 
 
 ### 🛡️ 安全性掃描 (VirusTotal Scan)
